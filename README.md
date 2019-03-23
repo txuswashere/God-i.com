@@ -1,2 +1,2 @@
-# presentations-God-i.com
-https://god-i.com
+# God-i.com
+* https://god-i.com
