@@ -1,5 +1,6 @@
 # God-i.com
 * https://god-i.com
+* https://god-i.live
 
 ## Mr. Q
 * http://mrq.es/
